@@ -1,0 +1,161 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: main|es6, null"
+  - description: ""
+    timestamp: 4.686
+    type: comment
+    reason: "longPause: 5984"
+  - description: ""
+    timestamp: 8.532
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 13.82
+    type: comment
+    reason: "longPause: 5288"
+  - description: ""
+    timestamp: 16.877
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 20.188
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 23.092
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 25.98
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 29.44
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 34.733
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 37.556
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 45.308
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 48.205
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 72.337
+    type: comment
+    reason: "longPause: 23406"
+  - description: ""
+    timestamp: 76.087
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 85.656
+    type: comment
+    reason: "longPause: 7961"
+  - description: ""
+    timestamp: 90.397
+    type: comment
+    reason: "beforeTab: models/song|es6, main|es6"
+  - description: ""
+    timestamp: 90.664
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 98.01
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 102.066
+    type: comment
+    reason: "beforeTab: main|es6, models/song|es6"
+  - description: ""
+    timestamp: 103.231
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 106.578
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 137.04
+    type: comment
+    reason: "longPause: 16005"
+  - description: ""
+    timestamp: 141.464
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 143.476
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 144.523
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 154.232
+    type: comment
+    reason: "beforeTab: main|es6, collections/songs|es6"
+  - description: ""
+    timestamp: 155.857
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 157.855
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 169.639
+    type: comment
+    reason: "beforeTab: collections/songs|es6, main|es6"
+  - description: ""
+    timestamp: 173.834
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 188.422
+    type: comment
+    reason: "beforeTab: main|es6, collections/songs|es6"
+  - description: ""
+    timestamp: 191.073
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 208.479
+    type: comment
+    reason: "longPause: 16951"
+  - description: ""
+    timestamp: 210.906
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 215.664
+    type: comment
+    reason: "beforeTab: views/song|es6, main|es6"
+  - description: ""
+    timestamp: 215.986
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 225.655
+    type: comment
+    reason: "beforeTab: main|es6, views/song|es6"
+  - description: ""
+    timestamp: 227.617
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 247.261
+    type: comment
+    reason: movement

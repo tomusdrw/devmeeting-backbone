@@ -1,0 +1,153 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: resources/songs|es6, null"
+  - description: ""
+    timestamp: 6.055
+    type: comment
+    reason: "urlChange: undefined, null"
+  - description: ""
+    timestamp: 29.751
+    type: comment
+    reason: "longPause: 8701"
+  - description: ""
+    timestamp: 39.783
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 44.692
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 78.867
+    type: comment
+    reason: "longPause: 7685"
+  - description: ""
+    timestamp: 122.195
+    type: comment
+    reason: "beforeTab: main|es6, resources/songs|es6"
+  - description: ""
+    timestamp: 126.365
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 146.382
+    type: comment
+    reason: "beforeTab: resources/songs|es6, main|es6"
+  - description: ""
+    timestamp: 156.504
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 163.37
+    type: comment
+    reason: "beforeTab: main|es6, resources/songs|es6"
+  - description: ""
+    timestamp: 184.963
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 188.03
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 189.831
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 452.656
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 457.606
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 460.517
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 464.261
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 469.51
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 472.605
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 478.512
+    type: comment
+    reason: "longPause: 5907"
+  - description: ""
+    timestamp: 485.413
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 487.154
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 489.497
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 493.738
+    type: comment
+    reason: "beforeTab: application|js, main|es6"
+  - description: ""
+    timestamp: 494.072
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 507.035
+    type: comment
+    reason: "longPause: 11438"
+  - description: ""
+    timestamp: 516.256
+    type: comment
+    reason: "beforeTab: main|es6, application|js"
+  - description: ""
+    timestamp: 523.671
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 525.279
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 545.921
+    type: comment
+    reason: "beforeTab: application|js, main|es6"
+  - description: ""
+    timestamp: 558.69
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 565.422
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 570.373
+    type: comment
+    reason: "beforeTab: resources/songs|es6, application|es6"
+  - description: ""
+    timestamp: 572.526
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 590.144
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 591.904
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 593.743
+    type: comment
+    reason: last

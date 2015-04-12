@@ -1,0 +1,177 @@
+---
+  title: "Devmeeting Backbone"
+  name: "backbone"
+  image: "/static/images/workshopdesc/backbone.jpg"
+  baseSlide: "5526c5797e7dbe465f4ca5a1"
+  visible: true
+  iterations: 
+    - 
+      title: "Iteration 1"
+      status: "available"
+      tasks: []
+      materials: 
+        -
+          title: 'static html'
+          material: '5529254d24d1300a7d263fae'
+          annotations: !include ./annotations/1.yml
+        -
+          title: 'include scripts'
+          material: '5529254d24d1300a7d263faf'
+          annotations: !include ./annotations/2.yml
+        -
+          title: 'one item, rendered with backbone'
+          material: '5529254d24d1300a7d263fb0'
+          annotations: !include ./annotations/3.yml
+        -
+          title: 'using js objects as models'
+          material: '5529254d24d1300a7d263fb1'
+          annotations: !include ./annotations/4.yml
+        -
+          title: 'list of items'
+          material: '5529254d24d1300a7d263fb2'
+          annotations: !include ./annotations/5.yml
+        -
+          title: 'notes maybe'
+          material: '5529254d24d1300a7d263fb3'
+          annotations: !include ./annotations/6.yml
+        -
+          title: 'backbone model'
+          material: '5529254d24d1300a7d263fb4'
+          annotations: !include ./annotations/7.yml
+        -
+          title: 'Song model with default values'
+          material: '5529254d24d1300a7d263fb5'
+          annotations: !include ./annotations/8.yml
+        -
+          title: 'actual songs collection'
+          material: '5529254d24d1300a7d263fb6'
+          annotations: !include ./annotations/9.yml
+    - 
+      title: "Iteration 2"
+      status: "available"
+      tasks: []
+      materials: 
+        - 
+          title: "filtering"
+          material: "5529254d24d1300a7d263fb7"
+          annotations: !include ./annotations/10.yml
+        - 
+          title: "move filters to collection"
+          material: "5529254d24d1300a7d263fb8"
+          annotations: !include ./annotations/11.yml
+        - 
+          title: "sorting (backbonejs-14)"
+          material: "5529254d24d1300a7d263fb9"
+          annotations: !include ./annotations/12.yml
+        - 
+          title: "improve sorting (refactor)"
+          material: "552a5c9011e5e64565c365a1"
+          annotations: !include ./annotations/13.yml
+    - 
+      title: "Iteration 3"
+      status: "available"
+      tasks: []
+      materials: 
+        - 
+          title: "form view"
+          material: "552a5d3411e5e64565c365a4"
+          annotations: !include ./annotations/14.yml
+        - 
+          title: "render new items"
+          material: "552a5e5511e5e64565c365a5"
+          annotations: !include ./annotations/15.yml
+        - 
+          title: "form template"
+          material: "5529254d24d1300a7d263fbc"
+          annotations: !include ./annotations/16.yml
+        - 
+          title: "switch to requirejs"
+          material: "552a65b69180da5d62b38a5a"
+          annotations: !include ./annotations/17.yml
+        - 
+          title: "make formview more universal"
+          material: "552a65b69180da5d62b38a5b"
+          annotations: !include ./annotations/18.yml
+        - 
+          title: "validation pt1"
+          material: "552a6c6c9180da5d62b38a61"
+          annotations: !include ./annotations/19.yml
+        - 
+          title: "validation pt2"
+          material: "552a6e3302874cfe66d2282e"
+          annotations: !include ./annotations/20.yml
+        - 
+          title: "serialize with syphon"
+          material: "552a6ec902874cfe66d2282f"
+          annotations: !include ./annotations/21.yml
+        - 
+          title: "validate with Backbone.Validation"
+          material: "552a6f2002874cfe66d22830"
+          annotations: !include ./annotations/22.yml
+    - 
+      title: "Iteration 4"
+      status: "available"
+      tasks: []
+      materials: 
+        - 
+          title: "fetching songs from external source, parsing"
+          material: "552a708602874cfe66d22836"
+          annotations: !include ./annotations/23.yml
+        - 
+          title: "split into files pt1"
+          material: "552a6ff102874cfe66d22833"
+          annotations: !include ./annotations/24.yml
+        - 
+          title: "split into files pt2"
+          material: "552a70fc02874cfe66d22838"
+          annotations: !include ./annotations/25.yml
+        - 
+          title: "code reuse with mixins"
+          material: "552a718c02874cfe66d22839"
+          annotations: !include ./annotations/26.yml
+    - 
+      title: "Iteration 5"
+      status: "available"
+      tasks: []
+      materials: 
+        - 
+          title: "routing pt1"
+          material: "552a721d02874cfe66d2283a"
+          annotations: !include ./annotations/27.yml
+        - 
+          title: "routing pt2"
+          material: "552a726ff956b15169c874c0"
+          annotations: !include ./annotations/28.yml
+        - 
+          title: "routing pt3 - memory management"
+          material: "552a72bdf956b15169c874c1"
+          annotations: !include ./annotations/29.yml
+        - 
+          title: "routing pt4 - fix bug"
+          material: "552a72f9f956b15169c874c2"
+          annotations: !include ./annotations/30.yml
+    - 
+      title: "Iteration 6"
+      status: "available"
+      tasks: []
+      materials: 
+        - 
+          title: "marionette introduction"
+          material: "552a73bbf956b15169c874c6"
+          annotations: !include ./annotations/31.yml
+        - 
+          title: "marionnete appRouter"
+          material: "552a73f6f956b15169c874c7"
+          annotations: !include ./annotations/32.yml
+        - 
+          title: "marionette reqers i command"
+          material: "552a743ff956b15169c874c8"
+          annotations: !include ./annotations/33.yml
+        - 
+          title: "regions, ItemView, CompositeView pt 1"
+          material: "552a748af956b15169c874c9"
+          annotations: !include ./annotations/33.yml
+        - 
+          title: "regions, ItemView, CompositeView pt 2"
+          material: "552a74dbf956b15169c874ca"
+          annotations: !include ./annotations/34.yml

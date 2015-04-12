@@ -1,0 +1,125 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: main|es6, null"
+  - description: ""
+    timestamp: 10.79
+    type: comment
+    reason: "longPause: 6443"
+  - description: ""
+    timestamp: 19.942
+    type: comment
+    reason: "longPause: 9152"
+  - description: ""
+    timestamp: 22.199
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 24.191
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 26.062
+    type: comment
+    reason: "beforeTab: views/songs|es6, main|es6"
+  - description: ""
+    timestamp: 26.297
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 41.666
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 53.175
+    type: comment
+    reason: "beforeTab: main|es6, views/songs|es6"
+  - description: ""
+    timestamp: 56.499
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 71.823
+    type: comment
+    reason: "longPause: 14868"
+  - description: ""
+    timestamp: 74.481
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 76.234
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 82.666
+    type: comment
+    reason: "longPause: 5243"
+  - description: ""
+    timestamp: 84.172
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 92.954
+    type: comment
+    reason: "beforeTab: main|es6, views/form|es6"
+  - description: ""
+    timestamp: 94.498
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 116.129
+    type: comment
+    reason: "longPause: 9999"
+  - description: ""
+    timestamp: 117.733
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 121.381
+    type: comment
+    reason: "beforeTab: views/songForm|es6, main|es6"
+  - description: ""
+    timestamp: 121.883
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 125.017
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 133.403
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 140.624
+    type: comment
+    reason: "beforeTab: main|es6, views/songForm|es6"
+  - description: ""
+    timestamp: 145.23
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 148.57
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 169.623
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 172.436
+    type: comment
+    reason: "beforeTab: views/songForm|es6, main|es6"
+  - description: ""
+    timestamp: 173.489
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 187.2
+    type: comment
+    reason: "beforeTab: templates|es6, views/songForm|es6"
+  - description: ""
+    timestamp: 192.018
+    type: comment
+    reason: afterTab
