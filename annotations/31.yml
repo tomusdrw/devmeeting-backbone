@@ -4,133 +4,25 @@ annotations:
     type: comment
     reason: "beforeTab: index|html, null"
   - description: ""
-    timestamp: 5.021
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 8.229
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 10.892
-    type: comment
-    reason: movement
-  - description: ""
     timestamp: 29.549
     type: comment
     reason: "longPause: 16743"
-  - description: ""
-    timestamp: 33.685
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 36.933
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 40.709
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 43.885
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 46.421
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 48.94
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 51.388
-    type: comment
-    reason: movement
   - description: ""
     timestamp: 59.701
     type: comment
     reason: "longPause: 8313"
   - description: ""
-    timestamp: 63.253
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 70.653
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 73.385
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 76.46
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 78.74
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 85.253
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 90.812
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 93.404
-    type: comment
-    reason: movement
-  - description: ""
     timestamp: 112.306
     type: comment
     reason: "longPause: 6417"
-  - description: ""
-    timestamp: 120.021
-    type: comment
-    reason: movement
   - description: ""
     timestamp: 130.901
     type: comment
     reason: "longPause: 7344"
   - description: ""
-    timestamp: 133.551
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 139.274
-    type: comment
-    reason: movement
-  - description: ""
     timestamp: 159.249
     type: comment
     reason: "longPause: 15955"
-  - description: ""
-    timestamp: 161.532
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 170.246
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 175.605
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 178.468
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 181.812
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 184.028
-    type: comment
-    reason: movement
   - description: ""
     timestamp: 195.78
     type: comment
@@ -140,25 +32,9 @@ annotations:
     type: comment
     reason: "longPause: 6898"
   - description: ""
-    timestamp: 207.751
+    timestamp: 228.176
     type: comment
-    reason: movement
-  - description: ""
-    timestamp: 216.237
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 219.988
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 223.324
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 227.676
-    type: comment
-    reason: movement
+    reason: "beforeTab: main|es6, index|html"
   - description: ""
     timestamp: 230.956
     type: comment
@@ -172,49 +48,13 @@ annotations:
     type: comment
     reason: "longPause: 5429"
   - description: ""
-    timestamp: 268.243
-    type: comment
-    reason: movement
-  - description: ""
     timestamp: 281.714
     type: comment
     reason: "longPause: 9875"
   - description: ""
-    timestamp: 287.588
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 314.115
-    type: comment
-    reason: movement
-  - description: ""
     timestamp: 322.315
     type: comment
     reason: "longPause: 6249"
-  - description: ""
-    timestamp: 325.787
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 328.971
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 336.123
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 339.172
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 343.956
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 347.461
-    type: comment
-    reason: movement
   - description: ""
     timestamp: 350.858
     type: comment

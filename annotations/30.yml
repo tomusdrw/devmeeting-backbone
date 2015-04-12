@@ -8,62 +8,6 @@ annotations:
     type: comment
     reason: "urlChange: undefined, null"
   - description: ""
-    timestamp: 8.857
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 11.906
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 15.122
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 17.657
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 20.834
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 23.793
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 26.234
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 33.466
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 36.537
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 39.137
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 45.817
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 49.089
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 53.506
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 56.314
-    type: comment
-    reason: movement
-  - description: ""
     timestamp: 72.152
     type: comment
     reason: "longPause: 12230"
@@ -75,10 +19,6 @@ annotations:
     timestamp: 92.017
     type: comment
     reason: afterTab
-  - description: ""
-    timestamp: 94.249
-    type: comment
-    reason: movement
   - description: ""
     timestamp: 99.182
     type: comment

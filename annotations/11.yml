@@ -4,30 +4,6 @@ annotations:
     type: comment
     reason: "beforeTab: main|es6, null"
   - description: ""
-    timestamp: 3.722
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 7.035
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 10.466
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 13.938
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 17.602
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 20.546
-    type: comment
-    reason: movement
-  - description: ""
     timestamp: 26.537
     type: comment
     reason: "longPause: 5671"

@@ -4,57 +4,9 @@ annotations:
     type: comment
     reason: "beforeTab: views/songs|es6, null"
   - description: ""
-    timestamp: 2.742
+    timestamp: 47.938
     type: comment
-    reason: movement
-  - description: ""
-    timestamp: 5.655
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 8.782
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 11.958
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 15.071
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 18.502
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 23.471
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 29.238
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 33.286
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 36.47
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 40.862
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 43.735
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 46.463
-    type: comment
-    reason: movement
+    reason: "beforeTab: main|es6, views/songs|es6"
   - description: ""
     timestamp: 55.698
     type: comment
@@ -67,10 +19,6 @@ annotations:
     timestamp: 117.839
     type: comment
     reason: "longPause: 6901"
-  - description: ""
-    timestamp: 137.371
-    type: comment
-    reason: movement
   - description: ""
     timestamp: 147.141
     type: comment

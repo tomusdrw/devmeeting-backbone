@@ -8,22 +8,6 @@ annotations:
     type: comment
     reason: "longPause: 22972"
   - description: ""
-    timestamp: 25.817
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 30.816
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 34.105
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 39.961
-    type: comment
-    reason: movement
-  - description: ""
     timestamp: 53.121
     type: comment
     reason: "longPause: 8584"
@@ -31,30 +15,6 @@ annotations:
     timestamp: 60.137
     type: comment
     reason: "longPause: 6281"
-  - description: ""
-    timestamp: 64.16
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 67.536
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 71.873
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 74.6
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 82.256
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 85.816
-    type: comment
-    reason: movement
   - description: ""
     timestamp: 90.985
     type: comment
@@ -64,30 +24,6 @@ annotations:
     type: comment
     reason: "longPause: 6192"
   - description: ""
-    timestamp: 99.625
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 102.44
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 105.456
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 108.289
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 110.352
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 112.616
-    type: comment
-    reason: movement
-  - description: ""
     timestamp: 124.518
     type: comment
     reason: "longPause: 11902"
@@ -95,10 +31,6 @@ annotations:
     timestamp: 127.448
     type: comment
     reason: afterTab
-  - description: ""
-    timestamp: 129.815
-    type: comment
-    reason: movement
   - description: ""
     timestamp: 139.491
     type: comment
@@ -112,10 +44,6 @@ annotations:
     type: comment
     reason: "longPause: 10820"
   - description: ""
-    timestamp: 160.558
-    type: comment
-    reason: movement
-  - description: ""
     timestamp: 167.192
     type: comment
     reason: largeJump
@@ -128,33 +56,13 @@ annotations:
     type: comment
     reason: "longPause: 9507"
   - description: ""
-    timestamp: 212.306
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 221.072
-    type: comment
-    reason: movement
-  - description: ""
     timestamp: 232.136
     type: comment
     reason: "longPause: 8744"
   - description: ""
-    timestamp: 237.143
-    type: comment
-    reason: movement
-  - description: ""
     timestamp: 244.512
     type: comment
     reason: "longPause: 5790"
-  - description: ""
-    timestamp: 248.447
-    type: comment
-    reason: movement
-  - description: ""
-    timestamp: 251.311
-    type: comment
-    reason: movement
   - description: ""
     timestamp: 260.712
     type: comment
