@@ -8,7 +8,10 @@
     - 
       title: "Iteration 1"
       status: "available"
-      tasks: []
+      tasks:
+        -
+          title: 'Tasks 1'
+          url: 'http://tomusdrw.github.io/devmeeting-backbone/tasks/1.html'
       materials: 
         -
           title: 'Static HTML'
@@ -45,7 +48,10 @@
     - 
       title: "Iteration 2"
       status: "available"
-      tasks: []
+      tasks:
+        -
+          title: 'Tasks 2'
+          url: 'http://tomusdrw.github.io/devmeeting-backbone/tasks/2.html'
       materials: 
         - 
           title: "Filtering"
@@ -66,7 +72,10 @@
     - 
       title: "Iteration 3"
       status: "available"
-      tasks: []
+      tasks:
+        -
+          title: 'Tasks 3'
+          url: 'http://tomusdrw.github.io/devmeeting-backbone/tasks/3.html'
       materials: 
         - 
           title: "Form"
@@ -107,7 +116,10 @@
     - 
       title: "Iteration 4"
       status: "available"
-      tasks: []
+      tasks:
+        -
+          title: 'Tasks 4'
+          url: 'http://tomusdrw.github.io/devmeeting-backbone/tasks/4.html'
       materials: 
         - 
           title: "Fetching and parsing"
@@ -128,7 +140,10 @@
     - 
       title: "Iteration 5"
       status: "available"
-      tasks: []
+      tasks:
+        -
+          title: 'Tasks 5'
+          url: 'http://tomusdrw.github.io/devmeeting-backbone/tasks/5.html'
       materials: 
         - 
           title: "Routing pt. 1"
@@ -149,7 +164,10 @@
     - 
       title: "Iteration 6"
       status: "available"
-      tasks: []
+      tasks:
+        -
+          title: 'Tasks 6'
+          url: 'http://tomusdrw.github.io/devmeeting-backbone/tasks/6.html'
       materials: 
         - 
           title: "Introduction to Backbone.Marionette"
