@@ -11,7 +11,7 @@
       tasks:
         -
           title: 'Tasks 1'
-          url: 'http://tomusdrw.github.io/devmeeting-backbone/tasks/1.html'
+          url: 'https://tomusdrw.github.io/devmeeting-backbone/tasks/1.html'
       materials: 
         -
           title: 'Static HTML'
@@ -51,7 +51,7 @@
       tasks:
         -
           title: 'Tasks 2'
-          url: 'http://tomusdrw.github.io/devmeeting-backbone/tasks/2.html'
+          url: 'https://tomusdrw.github.io/devmeeting-backbone/tasks/2.html'
       materials: 
         - 
           title: "Filtering"
@@ -75,7 +75,7 @@
       tasks:
         -
           title: 'Tasks 3'
-          url: 'http://tomusdrw.github.io/devmeeting-backbone/tasks/3.html'
+          url: 'https://tomusdrw.github.io/devmeeting-backbone/tasks/3.html'
       materials: 
         - 
           title: "Form"
@@ -119,7 +119,7 @@
       tasks:
         -
           title: 'Tasks 4'
-          url: 'http://tomusdrw.github.io/devmeeting-backbone/tasks/4.html'
+          url: 'https://tomusdrw.github.io/devmeeting-backbone/tasks/4.html'
       materials: 
         - 
           title: "Fetching and parsing"
@@ -143,7 +143,7 @@
       tasks:
         -
           title: 'Tasks 5'
-          url: 'http://tomusdrw.github.io/devmeeting-backbone/tasks/5.html'
+          url: 'https://tomusdrw.github.io/devmeeting-backbone/tasks/5.html'
       materials: 
         - 
           title: "Routing pt. 1"
@@ -167,7 +167,7 @@
       tasks:
         -
           title: 'Tasks 6'
-          url: 'http://tomusdrw.github.io/devmeeting-backbone/tasks/6.html'
+          url: 'https://tomusdrw.github.io/devmeeting-backbone/tasks/6.html'
       materials: 
         - 
           title: "Introduction to Backbone.Marionette"
